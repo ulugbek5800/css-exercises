@@ -2,3 +2,8 @@
     background-color: #FFCCCB;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#big_id {
+    color: blue;
+    font-size: 36px;
+}
