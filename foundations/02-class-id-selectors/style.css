@@ -8,11 +8,12 @@
     font-size: 36px;
 }
 
-.adjust_size {
+.odd.cooler {
     font-size: 24px;
 }
 
 #green_id {
     background-color: #90EE90;
+    font-size: 24px;
     font-weight: bold;
 }
