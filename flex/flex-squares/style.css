@@ -1,0 +1,19 @@
+.container {
+    /* height: 200px;
+    width: 500px; */
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 5px;
+    flex-wrap: wrap;
+  }
+  
+.square {
+    height: 100px;
+    width: 100px;
+    flex: auto;
+    background-color: lightblue;
+    border-radius: 5%;
+  }
