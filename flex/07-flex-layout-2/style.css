@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
 }
 
-/* Solution */
+/* solution start */
 
 body {
   display: flex;
@@ -65,7 +65,7 @@ a {
   align-items: center;
 }
 
-/* Solution */
+/* solution end */
 
 .header {
   height: 72px;
