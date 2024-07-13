@@ -36,14 +36,21 @@ input {
 }
 
 .content {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
 }
 
 .footer {
   background-color: #eeeeee;
+  /* align-items: flex-end;
+  margin-top: auto; */
 }
 
-.left-links, .right-links {
+.left-links, .right-links {   /* or add to ul */
   display: flex;
   gap: 8px
 }
