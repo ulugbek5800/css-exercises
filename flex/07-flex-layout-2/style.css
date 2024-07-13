@@ -30,8 +30,8 @@ body {
   padding: 16px;
 }
 
-.sidebar ul {
-  font-size: 24px;
+.sidebar ul li {  /* or just li */
+  margin-bottom: 16px;
 }
 
 ul.no-bullets {
@@ -41,6 +41,7 @@ ul.no-bullets {
 }
 
 a {
+  font-size: 24px;
   text-decoration: none;
   color: white;
 }
@@ -48,11 +49,13 @@ a {
 .content {
   display: flex;
   flex-wrap: wrap;
+  padding: 16px;
+  gap: 32px;
 }
 
 .card {
   height: auto;
-  width: 350px;
+  width: 300px;
   padding: 16px;
 }
 
